@@ -1,7 +1,21 @@
 <!DOCTYPE html>
 <html>
+<head>
+</head>
+
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
+
+<script src="https://d3js.org/d3.v5.min.js">
+values = FileAttachment("values.json").json()
+d3 = require("d3v5")
+
+[d3.min(values), d3.median(values), d3.max(values)]
+
+import {chart as chart1} with {values as data} from "@d3/histogram"
+
+</script>
+
 </body>
 </html>

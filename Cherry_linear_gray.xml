@@ -1,0 +1,6805 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<results preview='0'>
+<meta>
+<fieldOrder>
+<field groupby_rank="0">distance</field>
+<field data_source="Actuation" splitby_field="direction" splitby_value="compressing">Actuation: compressing</field>
+<field data_source="Actuation" splitby_field="direction" splitby_value="releasing">Actuation: releasing</field>
+<field data_source="Force" splitby_field="direction" splitby_value="compressing">Force: compressing</field>
+<field data_source="Force" splitby_field="direction" splitby_value="releasing">Force: releasing</field>
+</fieldOrder>
+</meta>
+	<result offset='0'>
+		<field k='distance'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>28.941538461538464</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>16.942564102564102</text></value>
+		</field>
+	</result>
+	<result offset='1'>
+		<field k='distance'>
+			<value><text>0.01</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>40.978974358974355</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>22.232051282051284</text></value>
+		</field>
+	</result>
+	<result offset='2'>
+		<field k='distance'>
+			<value><text>0.02</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>49.026923076923076</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>40.81743589743589</text></value>
+		</field>
+	</result>
+	<result offset='3'>
+		<field k='distance'>
+			<value><text>0.03</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>51.050769230769234</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>41.492820512820515</text></value>
+		</field>
+	</result>
+	<result offset='4'>
+		<field k='distance'>
+			<value><text>0.04</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>51.08205128205128</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>41.70897435897436</text></value>
+		</field>
+	</result>
+	<result offset='5'>
+		<field k='distance'>
+			<value><text>0.05</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>51.12410256410256</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>41.9176282051282</text></value>
+		</field>
+	</result>
+	<result offset='6'>
+		<field k='distance'>
+			<value><text>0.06</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>51.338461538461544</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>42.35384615384615</text></value>
+		</field>
+	</result>
+	<result offset='7'>
+		<field k='distance'>
+			<value><text>0.07</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.08461538461538</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>42.44461538461539</text></value>
+		</field>
+	</result>
+	<result offset='8'>
+		<field k='distance'>
+			<value><text>0.08</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.256410256410255</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>42.37582417582418</text></value>
+		</field>
+	</result>
+	<result offset='9'>
+		<field k='distance'>
+			<value><text>0.09</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>51.97991452991453</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>42.420512820512826</text></value>
+		</field>
+	</result>
+	<result offset='10'>
+		<field k='distance'>
+			<value><text>0.1</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>51.79358974358974</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.855555555555554</text></value>
+		</field>
+	</result>
+	<result offset='11'>
+		<field k='distance'>
+			<value><text>0.11</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.15341880341881</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>42.360897435897435</text></value>
+		</field>
+	</result>
+	<result offset='12'>
+		<field k='distance'>
+			<value><text>0.12</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.12051282051282</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>42.521794871794874</text></value>
+		</field>
+	</result>
+	<result offset='13'>
+		<field k='distance'>
+			<value><text>0.13</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.24717948717948</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43</text></value>
+		</field>
+	</result>
+	<result offset='14'>
+		<field k='distance'>
+			<value><text>0.14</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.016666666666666</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.00598290598291</text></value>
+		</field>
+	</result>
+	<result offset='15'>
+		<field k='distance'>
+			<value><text>0.15</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.439743589743586</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.142307692307696</text></value>
+		</field>
+	</result>
+	<result offset='16'>
+		<field k='distance'>
+			<value><text>0.16</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.64529914529914</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.231623931623936</text></value>
+		</field>
+	</result>
+	<result offset='17'>
+		<field k='distance'>
+			<value><text>0.17</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>51.707692307692305</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>42.64820512820513</text></value>
+		</field>
+	</result>
+	<result offset='18'>
+		<field k='distance'>
+			<value><text>0.18</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.17649572649572</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.371794871794876</text></value>
+		</field>
+	</result>
+	<result offset='19'>
+		<field k='distance'>
+			<value><text>0.19</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.532051282051285</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.589976689976695</text></value>
+		</field>
+	</result>
+	<result offset='20'>
+		<field k='distance'>
+			<value><text>0.2</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.92051282051282</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.260897435897434</text></value>
+		</field>
+	</result>
+	<result offset='21'>
+		<field k='distance'>
+			<value><text>0.21</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>52.58278388278388</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.284615384615385</text></value>
+		</field>
+	</result>
+	<result offset='22'>
+		<field k='distance'>
+			<value><text>0.22</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>53.03333333333334</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>44.22666666666667</text></value>
+		</field>
+	</result>
+	<result offset='23'>
+		<field k='distance'>
+			<value><text>0.23</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>53.071794871794864</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>43.243589743589745</text></value>
+		</field>
+	</result>
+	<result offset='24'>
+		<field k='distance'>
+			<value><text>0.24</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>53.212820512820514</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>44.40448717948718</text></value>
+		</field>
+	</result>
+	<result offset='25'>
+		<field k='distance'>
+			<value><text>0.25</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>53.63186813186813</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>45.047578347578344</text></value>
+		</field>
+	</result>
+	<result offset='26'>
+		<field k='distance'>
+			<value><text>0.26</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>53.59589743589744</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>44.92393162393162</text></value>
+		</field>
+	</result>
+	<result offset='27'>
+		<field k='distance'>
+			<value><text>0.27</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>53.98803418803419</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>44.95128205128205</text></value>
+		</field>
+	</result>
+	<result offset='28'>
+		<field k='distance'>
+			<value><text>0.28</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.01452991452991</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>45.08589743589744</text></value>
+		</field>
+	</result>
+	<result offset='29'>
+		<field k='distance'>
+			<value><text>0.29</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>53.896153846153844</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>44.987545787545784</text></value>
+		</field>
+	</result>
+	<result offset='30'>
+		<field k='distance'>
+			<value><text>0.3</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.32211538461539</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>45.23205128205128</text></value>
+		</field>
+	</result>
+	<result offset='31'>
+		<field k='distance'>
+			<value><text>0.31</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.281410256410254</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>45.57649572649573</text></value>
+		</field>
+	</result>
+	<result offset='32'>
+		<field k='distance'>
+			<value><text>0.32</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.107692307692304</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>45.79010989010989</text></value>
+		</field>
+	</result>
+	<result offset='33'>
+		<field k='distance'>
+			<value><text>0.33</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.39282051282051</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>44.97051282051282</text></value>
+		</field>
+	</result>
+	<result offset='34'>
+		<field k='distance'>
+			<value><text>0.34</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.458119658119664</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>45.77521367521367</text></value>
+		</field>
+	</result>
+	<result offset='35'>
+		<field k='distance'>
+			<value><text>0.35</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.58119658119657</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>45.632371794871794</text></value>
+		</field>
+	</result>
+	<result offset='36'>
+		<field k='distance'>
+			<value><text>0.36</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.97846153846153</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>45.430769230769236</text></value>
+		</field>
+	</result>
+	<result offset='37'>
+		<field k='distance'>
+			<value><text>0.37</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.97076923076922</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>46.29145299145299</text></value>
+		</field>
+	</result>
+	<result offset='38'>
+		<field k='distance'>
+			<value><text>0.38</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>54.357948717948716</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>46.88461538461539</text></value>
+		</field>
+	</result>
+	<result offset='39'>
+		<field k='distance'>
+			<value><text>0.39</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>55.01346153846154</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>46.80769230769231</text></value>
+		</field>
+	</result>
+	<result offset='40'>
+		<field k='distance'>
+			<value><text>0.4</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>55.223076923076924</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.2748717948718</text></value>
+		</field>
+	</result>
+	<result offset='41'>
+		<field k='distance'>
+			<value><text>0.41</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>55.21435897435897</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.00256410256411</text></value>
+		</field>
+	</result>
+	<result offset='42'>
+		<field k='distance'>
+			<value><text>0.42</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>55.6594017094017</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.25934065934066</text></value>
+		</field>
+	</result>
+	<result offset='43'>
+		<field k='distance'>
+			<value><text>0.43</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>55.596410256410266</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.51589743589743</text></value>
+		</field>
+	</result>
+	<result offset='44'>
+		<field k='distance'>
+			<value><text>0.44</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>56.034615384615385</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.56282051282051</text></value>
+		</field>
+	</result>
+	<result offset='45'>
+		<field k='distance'>
+			<value><text>0.45</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>56.271428571428565</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.53504273504273</text></value>
+		</field>
+	</result>
+	<result offset='46'>
+		<field k='distance'>
+			<value><text>0.46</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>56.36776556776557</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.615064102564105</text></value>
+		</field>
+	</result>
+	<result offset='47'>
+		<field k='distance'>
+			<value><text>0.47</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>56.215384615384615</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.853846153846156</text></value>
+		</field>
+	</result>
+	<result offset='48'>
+		<field k='distance'>
+			<value><text>0.48</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>56.292307692307695</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>47.739999999999995</text></value>
+		</field>
+	</result>
+	<result offset='49'>
+		<field k='distance'>
+			<value><text>0.49</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>56.67728937728938</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>48.33461538461538</text></value>
+		</field>
+	</result>
+	<result offset='50'>
+		<field k='distance'>
+			<value><text>0.5</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>56.43418803418803</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>48.680769230769236</text></value>
+		</field>
+	</result>
+	<result offset='51'>
+		<field k='distance'>
+			<value><text>0.51</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.30051282051282</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>48.72991452991453</text></value>
+		</field>
+	</result>
+	<result offset='52'>
+		<field k='distance'>
+			<value><text>0.52</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.17897435897436</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>48.930769230769236</text></value>
+		</field>
+	</result>
+	<result offset='53'>
+		<field k='distance'>
+			<value><text>0.53</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.645299145299155</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.05299145299145</text></value>
+		</field>
+	</result>
+	<result offset='54'>
+		<field k='distance'>
+			<value><text>0.54</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>56.878205128205124</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>48.68782051282051</text></value>
+		</field>
+	</result>
+	<result offset='55'>
+		<field k='distance'>
+			<value><text>0.55</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.846581196581205</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.294444444444444</text></value>
+		</field>
+	</result>
+	<result offset='56'>
+		<field k='distance'>
+			<value><text>0.56</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.68000000000001</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.454131054131054</text></value>
+		</field>
+	</result>
+	<result offset='57'>
+		<field k='distance'>
+			<value><text>0.57</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.75961538461539</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.89273504273505</text></value>
+		</field>
+	</result>
+	<result offset='58'>
+		<field k='distance'>
+			<value><text>0.58</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>58.27820512820512</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.81948717948718</text></value>
+		</field>
+	</result>
+	<result offset='59'>
+		<field k='distance'>
+			<value><text>0.59</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>58.26495726495727</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.88717948717949</text></value>
+		</field>
+	</result>
+	<result offset='60'>
+		<field k='distance'>
+			<value><text>0.6</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>58.055128205128206</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.42857142857143</text></value>
+		</field>
+	</result>
+	<result offset='61'>
+		<field k='distance'>
+			<value><text>0.61</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.5625641025641</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.156410256410254</text></value>
+		</field>
+	</result>
+	<result offset='62'>
+		<field k='distance'>
+			<value><text>0.62</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.77692307692307</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.20705128205128</text></value>
+		</field>
+	</result>
+	<result offset='63'>
+		<field k='distance'>
+			<value><text>0.63</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>57.61025641025641</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.766666666666666</text></value>
+		</field>
+	</result>
+	<result offset='64'>
+		<field k='distance'>
+			<value><text>0.64</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>58.02756410256411</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>49.85897435897436</text></value>
+		</field>
+	</result>
+	<result offset='65'>
+		<field k='distance'>
+			<value><text>0.65</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>58.55982905982906</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>51.08051282051282</text></value>
+		</field>
+	</result>
+	<result offset='66'>
+		<field k='distance'>
+			<value><text>0.66</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>59.43333333333332</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>50.92115384615384</text></value>
+		</field>
+	</result>
+	<result offset='67'>
+		<field k='distance'>
+			<value><text>0.67</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>59.767307692307696</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>51.065934065934066</text></value>
+		</field>
+	</result>
+	<result offset='68'>
+		<field k='distance'>
+			<value><text>0.68</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>59.26196581196581</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>51.22393162393163</text></value>
+		</field>
+	</result>
+	<result offset='69'>
+		<field k='distance'>
+			<value><text>0.69</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>59.41794871794872</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>51.21076923076923</text></value>
+		</field>
+	</result>
+	<result offset='70'>
+		<field k='distance'>
+			<value><text>0.7</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>59.099487179487184</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>51.94102564102563</text></value>
+		</field>
+	</result>
+	<result offset='71'>
+		<field k='distance'>
+			<value><text>0.71</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>59.67589743589743</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>51.43179487179488</text></value>
+		</field>
+	</result>
+	<result offset='72'>
+		<field k='distance'>
+			<value><text>0.72</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>59.81410256410256</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>52.14717948717949</text></value>
+		</field>
+	</result>
+	<result offset='73'>
+		<field k='distance'>
+			<value><text>0.73</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>60.31367521367522</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>52.032478632478636</text></value>
+		</field>
+	</result>
+	<result offset='74'>
+		<field k='distance'>
+			<value><text>0.74</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>60.30598290598291</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>52.55598290598291</text></value>
+		</field>
+	</result>
+	<result offset='75'>
+		<field k='distance'>
+			<value><text>0.75</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>59.88931623931624</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>52.33333333333333</text></value>
+		</field>
+	</result>
+	<result offset='76'>
+		<field k='distance'>
+			<value><text>0.76</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>60.37564102564102</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>52.6697435897436</text></value>
+		</field>
+	</result>
+	<result offset='77'>
+		<field k='distance'>
+			<value><text>0.77</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>60.32820512820513</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>53.44358974358974</text></value>
+		</field>
+	</result>
+	<result offset='78'>
+		<field k='distance'>
+			<value><text>0.78</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>60.294871794871796</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>53.265567765567766</text></value>
+		</field>
+	</result>
+	<result offset='79'>
+		<field k='distance'>
+			<value><text>0.79</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.41794871794872</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>54.26923076923077</text></value>
+		</field>
+	</result>
+	<result offset='80'>
+		<field k='distance'>
+			<value><text>0.8</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.017307692307696</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>53.76025641025641</text></value>
+		</field>
+	</result>
+	<result offset='81'>
+		<field k='distance'>
+			<value><text>0.81</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.14358974358974</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>53.543956043956044</text></value>
+		</field>
+	</result>
+	<result offset='82'>
+		<field k='distance'>
+			<value><text>0.82</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.18589743589743</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>53.715384615384615</text></value>
+		</field>
+	</result>
+	<result offset='83'>
+		<field k='distance'>
+			<value><text>0.83</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.53736263736264</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>53.66080586080586</text></value>
+		</field>
+	</result>
+	<result offset='84'>
+		<field k='distance'>
+			<value><text>0.84</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.22948717948718</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>54.01282051282051</text></value>
+		</field>
+	</result>
+	<result offset='85'>
+		<field k='distance'>
+			<value><text>0.85</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.28846153846154</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>53.84839743589744</text></value>
+		</field>
+	</result>
+	<result offset='86'>
+		<field k='distance'>
+			<value><text>0.86</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.868498168498164</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>54.62435897435897</text></value>
+		</field>
+	</result>
+	<result offset='87'>
+		<field k='distance'>
+			<value><text>0.87</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>62.139487179487176</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>53.72136752136752</text></value>
+		</field>
+	</result>
+	<result offset='88'>
+		<field k='distance'>
+			<value><text>0.88</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>61.38205128205128</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>55.00512820512821</text></value>
+		</field>
+	</result>
+	<result offset='89'>
+		<field k='distance'>
+			<value><text>0.89</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>62.38888888888889</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>55</text></value>
+		</field>
+	</result>
+	<result offset='90'>
+		<field k='distance'>
+			<value><text>0.9</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>62.21410256410257</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>54.50064102564103</text></value>
+		</field>
+	</result>
+	<result offset='91'>
+		<field k='distance'>
+			<value><text>0.91</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>62.24410256410256</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>54.6965811965812</text></value>
+		</field>
+	</result>
+	<result offset='92'>
+		<field k='distance'>
+			<value><text>0.92</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>62.22435897435897</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>54.65512820512821</text></value>
+		</field>
+	</result>
+	<result offset='93'>
+		<field k='distance'>
+			<value><text>0.93</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>62.68974358974359</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>55.68782051282051</text></value>
+		</field>
+	</result>
+	<result offset='94'>
+		<field k='distance'>
+			<value><text>0.94</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>62.46666666666667</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>55.76474358974359</text></value>
+		</field>
+	</result>
+	<result offset='95'>
+		<field k='distance'>
+			<value><text>0.95</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>63.16776556776557</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>55.93269230769231</text></value>
+		</field>
+	</result>
+	<result offset='96'>
+		<field k='distance'>
+			<value><text>0.96</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>64.14423076923077</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.33653846153847</text></value>
+		</field>
+	</result>
+	<result offset='97'>
+		<field k='distance'>
+			<value><text>0.97</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>63.580769230769235</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.329743589743586</text></value>
+		</field>
+	</result>
+	<result offset='98'>
+		<field k='distance'>
+			<value><text>0.98</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>64.1111111111111</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.437948717948714</text></value>
+		</field>
+	</result>
+	<result offset='99'>
+		<field k='distance'>
+			<value><text>0.99</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>64.31666666666666</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.70683760683761</text></value>
+		</field>
+	</result>
+	<result offset='100'>
+		<field k='distance'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>64.26666666666667</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.76205128205129</text></value>
+		</field>
+	</result>
+	<result offset='101'>
+		<field k='distance'>
+			<value><text>1.01</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>64.18644688644689</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.29145299145299</text></value>
+		</field>
+	</result>
+	<result offset='102'>
+		<field k='distance'>
+			<value><text>1.02</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>63.739102564102566</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.628846153846155</text></value>
+		</field>
+	</result>
+	<result offset='103'>
+		<field k='distance'>
+			<value><text>1.03</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>63.96666666666667</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.56153846153846</text></value>
+		</field>
+	</result>
+	<result offset='104'>
+		<field k='distance'>
+			<value><text>1.04</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>63.71923076923076</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.00923076923077</text></value>
+		</field>
+	</result>
+	<result offset='105'>
+		<field k='distance'>
+			<value><text>1.05</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>63.918803418803414</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>55.45641025641025</text></value>
+		</field>
+	</result>
+	<result offset='106'>
+		<field k='distance'>
+			<value><text>1.06</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>63.64743589743589</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.148717948717945</text></value>
+		</field>
+	</result>
+	<result offset='107'>
+		<field k='distance'>
+			<value><text>1.07</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>64.14487179487179</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.13504273504274</text></value>
+		</field>
+	</result>
+	<result offset='108'>
+		<field k='distance'>
+			<value><text>1.08</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>64.43931623931623</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>56.97179487179487</text></value>
+		</field>
+	</result>
+	<result offset='109'>
+		<field k='distance'>
+			<value><text>1.09</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>64.14820512820513</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>58.25897435897436</text></value>
+		</field>
+	</result>
+	<result offset='110'>
+		<field k='distance'>
+			<value><text>1.1</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>65.39413919413919</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>58.823076923076925</text></value>
+		</field>
+	</result>
+	<result offset='111'>
+		<field k='distance'>
+			<value><text>1.11</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>65.67606837606839</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>58.57236467236467</text></value>
+		</field>
+	</result>
+	<result offset='112'>
+		<field k='distance'>
+			<value><text>1.12</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>65.64529914529915</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>58.51965811965812</text></value>
+		</field>
+	</result>
+	<result offset='113'>
+		<field k='distance'>
+			<value><text>1.13</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>65.96153846153845</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.105982905982906</text></value>
+		</field>
+	</result>
+	<result offset='114'>
+		<field k='distance'>
+			<value><text>1.14</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.17660256410257</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.03589743589744</text></value>
+		</field>
+	</result>
+	<result offset='115'>
+		<field k='distance'>
+			<value><text>1.15</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>65.81923076923077</text></value>
+		</field>
+	</result>
+	<result offset='116'>
+		<field k='distance'>
+			<value><text>1.16</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>65.83076923076922</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.4025641025641</text></value>
+		</field>
+	</result>
+	<result offset='117'>
+		<field k='distance'>
+			<value><text>1.17</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.32358974358974</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.116410256410255</text></value>
+		</field>
+	</result>
+	<result offset='118'>
+		<field k='distance'>
+			<value><text>1.18</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.06752136752137</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.20586080586081</text></value>
+		</field>
+	</result>
+	<result offset='119'>
+		<field k='distance'>
+			<value><text>1.19</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.17076923076924</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.61025641025641</text></value>
+		</field>
+	</result>
+	<result offset='120'>
+		<field k='distance'>
+			<value><text>1.2</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.63663003663002</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.72393162393163</text></value>
+		</field>
+	</result>
+	<result offset='121'>
+		<field k='distance'>
+			<value><text>1.21</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.53717948717949</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.498974358974365</text></value>
+		</field>
+	</result>
+	<result offset='122'>
+		<field k='distance'>
+			<value><text>1.22</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.73717948717949</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.92307692307693</text></value>
+		</field>
+	</result>
+	<result offset='123'>
+		<field k='distance'>
+			<value><text>1.23</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.69794871794872</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>60.06623931623932</text></value>
+		</field>
+	</result>
+	<result offset='124'>
+		<field k='distance'>
+			<value><text>1.24</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.50641025641025</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>59.86752136752136</text></value>
+		</field>
+	</result>
+	<result offset='125'>
+		<field k='distance'>
+			<value><text>1.25</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>66.73931623931624</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>60.41076923076923</text></value>
+		</field>
+	</result>
+	<result offset='126'>
+		<field k='distance'>
+			<value><text>1.26</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>67.63397435897437</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.242051282051285</text></value>
+		</field>
+	</result>
+	<result offset='127'>
+		<field k='distance'>
+			<value><text>1.27</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.26495726495726</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>60.812820512820515</text></value>
+		</field>
+	</result>
+	<result offset='128'>
+		<field k='distance'>
+			<value><text>1.28</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.59230769230768</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>60.94423076923077</text></value>
+		</field>
+	</result>
+	<result offset='129'>
+		<field k='distance'>
+			<value><text>1.29</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>67.88076923076923</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.26730769230769</text></value>
+		</field>
+	</result>
+	<result offset='130'>
+		<field k='distance'>
+			<value><text>1.3</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>67.71730769230768</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.443162393162396</text></value>
+		</field>
+	</result>
+	<result offset='131'>
+		<field k='distance'>
+			<value><text>1.31</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.29059829059828</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.30564102564104</text></value>
+		</field>
+	</result>
+	<result offset='132'>
+		<field k='distance'>
+			<value><text>1.32</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.35726495726496</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.11333333333333</text></value>
+		</field>
+	</result>
+	<result offset='133'>
+		<field k='distance'>
+			<value><text>1.33</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>67.95897435897436</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.12692307692308</text></value>
+		</field>
+	</result>
+	<result offset='134'>
+		<field k='distance'>
+			<value><text>1.34</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.42051282051281</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.700854700854705</text></value>
+		</field>
+	</result>
+	<result offset='135'>
+		<field k='distance'>
+			<value><text>1.35</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>69.50897435897436</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.08888888888888</text></value>
+		</field>
+	</result>
+	<result offset='136'>
+		<field k='distance'>
+			<value><text>1.36</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.41709401709402</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.74743589743589</text></value>
+		</field>
+	</result>
+	<result offset='137'>
+		<field k='distance'>
+			<value><text>1.37</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>69.17008547008545</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.78290598290598</text></value>
+		</field>
+	</result>
+	<result offset='138'>
+		<field k='distance'>
+			<value><text>1.38</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.73406593406592</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.04679487179487</text></value>
+		</field>
+	</result>
+	<result offset='139'>
+		<field k='distance'>
+			<value><text>1.39</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.59829059829059</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.866666666666674</text></value>
+		</field>
+	</result>
+	<result offset='140'>
+		<field k='distance'>
+			<value><text>1.4</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>69.34102564102565</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>61.505982905982904</text></value>
+		</field>
+	</result>
+	<result offset='141'>
+		<field k='distance'>
+			<value><text>1.41</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>68.76602564102565</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>62.944871794871794</text></value>
+		</field>
+	</result>
+	<result offset='142'>
+		<field k='distance'>
+			<value><text>1.42</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>69.78247863247863</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>63.34688644688645</text></value>
+		</field>
+	</result>
+	<result offset='143'>
+		<field k='distance'>
+			<value><text>1.43</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>69.66089743589743</text></value>
+		</field>
+	</result>
+	<result offset='144'>
+		<field k='distance'>
+			<value><text>1.44</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.01831501831501</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>63.216483516483514</text></value>
+		</field>
+	</result>
+	<result offset='145'>
+		<field k='distance'>
+			<value><text>1.45</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>69.84038461538462</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>62.282051282051285</text></value>
+		</field>
+	</result>
+	<result offset='146'>
+		<field k='distance'>
+			<value><text>1.46</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.07628205128205</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>63.47991452991454</text></value>
+		</field>
+	</result>
+	<result offset='147'>
+		<field k='distance'>
+			<value><text>1.47</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.50989010989011</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>63.30384615384615</text></value>
+		</field>
+	</result>
+	<result offset='148'>
+		<field k='distance'>
+			<value><text>1.48</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.79230769230769</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>63.32991452991453</text></value>
+		</field>
+	</result>
+	<result offset='149'>
+		<field k='distance'>
+			<value><text>1.49</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.29615384615386</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>63.21346153846154</text></value>
+		</field>
+	</result>
+	<result offset='150'>
+		<field k='distance'>
+			<value><text>1.5</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.25076923076924</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>63.66153846153846</text></value>
+		</field>
+	</result>
+	<result offset='151'>
+		<field k='distance'>
+			<value><text>1.51</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.33418803418803</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>63.38547008547008</text></value>
+		</field>
+	</result>
+	<result offset='152'>
+		<field k='distance'>
+			<value><text>1.52</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.22461538461539</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>64.01410256410256</text></value>
+		</field>
+	</result>
+	<result offset='153'>
+		<field k='distance'>
+			<value><text>1.53</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>70.75384615384615</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>64.01965811965812</text></value>
+		</field>
+	</result>
+	<result offset='154'>
+		<field k='distance'>
+			<value><text>1.54</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>71.06581196581196</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>64.92179487179486</text></value>
+		</field>
+	</result>
+	<result offset='155'>
+		<field k='distance'>
+			<value><text>1.55</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>71.5474358974359</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.22666666666666</text></value>
+		</field>
+	</result>
+	<result offset='156'>
+		<field k='distance'>
+			<value><text>1.56</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.20641025641027</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.77435897435898</text></value>
+		</field>
+	</result>
+	<result offset='157'>
+		<field k='distance'>
+			<value><text>1.57</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>71.75641025641026</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.69871794871796</text></value>
+		</field>
+	</result>
+	<result offset='158'>
+		<field k='distance'>
+			<value><text>1.58</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.01282051282051</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.42051282051281</text></value>
+		</field>
+	</result>
+	<result offset='159'>
+		<field k='distance'>
+			<value><text>1.59</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.09487179487179</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.56666666666666</text></value>
+		</field>
+	</result>
+	<result offset='160'>
+		<field k='distance'>
+			<value><text>1.6</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>71.68290598290598</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.70170940170941</text></value>
+		</field>
+	</result>
+	<result offset='161'>
+		<field k='distance'>
+			<value><text>1.61</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.18974358974359</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.26051282051283</text></value>
+		</field>
+	</result>
+	<result offset='162'>
+		<field k='distance'>
+			<value><text>1.62</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>71.98974358974358</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.59615384615384</text></value>
+		</field>
+	</result>
+	<result offset='163'>
+		<field k='distance'>
+			<value><text>1.63</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.30982905982906</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>66.00726495726495</text></value>
+		</field>
+	</result>
+	<result offset='164'>
+		<field k='distance'>
+			<value><text>1.64</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.42307692307692</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>66.38717948717948</text></value>
+		</field>
+	</result>
+	<result offset='165'>
+		<field k='distance'>
+			<value><text>1.65</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.61538461538461</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.42307692307692</text></value>
+		</field>
+	</result>
+	<result offset='166'>
+		<field k='distance'>
+			<value><text>1.66</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.48397435897435</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>66.04615384615384</text></value>
+		</field>
+	</result>
+	<result offset='167'>
+		<field k='distance'>
+			<value><text>1.67</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.49435897435899</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>66.2042735042735</text></value>
+		</field>
+	</result>
+	<result offset='168'>
+		<field k='distance'>
+			<value><text>1.68</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.44529914529915</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>66.17820512820512</text></value>
+		</field>
+	</result>
+	<result offset='169'>
+		<field k='distance'>
+			<value><text>1.69</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>72.95192307692308</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.62649572649572</text></value>
+		</field>
+	</result>
+	<result offset='170'>
+		<field k='distance'>
+			<value><text>1.7</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>73.07307692307693</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>65.59487179487179</text></value>
+		</field>
+	</result>
+	<result offset='171'>
+		<field k='distance'>
+			<value><text>1.71</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>73.1849358974359</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>66.84487179487179</text></value>
+		</field>
+	</result>
+	<result offset='172'>
+		<field k='distance'>
+			<value><text>1.72</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>74.27692307692308</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>67.88376068376068</text></value>
+		</field>
+	</result>
+	<result offset='173'>
+		<field k='distance'>
+			<value><text>1.73</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>74.57264957264958</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>67.9989010989011</text></value>
+		</field>
+	</result>
+	<result offset='174'>
+		<field k='distance'>
+			<value><text>1.74</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>74.6476923076923</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>68.22136752136753</text></value>
+		</field>
+	</result>
+	<result offset='175'>
+		<field k='distance'>
+			<value><text>1.75</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>74.17692307692307</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>68.17743589743591</text></value>
+		</field>
+	</result>
+	<result offset='176'>
+		<field k='distance'>
+			<value><text>1.76</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>74.48871794871795</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>67.97606837606837</text></value>
+		</field>
+	</result>
+	<result offset='177'>
+		<field k='distance'>
+			<value><text>1.77</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>74.35470085470085</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>68.46987179487179</text></value>
+		</field>
+	</result>
+	<result offset='178'>
+		<field k='distance'>
+			<value><text>1.78</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>74.9043956043956</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>68.83162393162394</text></value>
+		</field>
+	</result>
+	<result offset='179'>
+		<field k='distance'>
+			<value><text>1.79</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.02435897435898</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>68.90307692307692</text></value>
+		</field>
+	</result>
+	<result offset='180'>
+		<field k='distance'>
+			<value><text>1.8</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.14529914529915</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.00726495726497</text></value>
+		</field>
+	</result>
+	<result offset='181'>
+		<field k='distance'>
+			<value><text>1.81</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>74.9448717948718</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.0051282051282</text></value>
+		</field>
+	</result>
+	<result offset='182'>
+		<field k='distance'>
+			<value><text>1.82</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.29179487179488</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.3326923076923</text></value>
+		</field>
+	</result>
+	<result offset='183'>
+		<field k='distance'>
+			<value><text>1.83</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.34102564102565</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>68.71384615384616</text></value>
+		</field>
+	</result>
+	<result offset='184'>
+		<field k='distance'>
+			<value><text>1.84</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.6625641025641</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.02606837606838</text></value>
+		</field>
+	</result>
+	<result offset='185'>
+		<field k='distance'>
+			<value><text>1.85</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.42820512820514</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.16043956043954</text></value>
+		</field>
+	</result>
+	<result offset='186'>
+		<field k='distance'>
+			<value><text>1.86</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.18717948717949</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>68.5423076923077</text></value>
+		</field>
+	</result>
+	<result offset='187'>
+		<field k='distance'>
+			<value><text>1.87</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.8198717948718</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.05311355311355</text></value>
+		</field>
+	</result>
+	<result offset='188'>
+		<field k='distance'>
+			<value><text>1.88</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.94505494505495</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.16666666666667</text></value>
+		</field>
+	</result>
+	<result offset='189'>
+		<field k='distance'>
+			<value><text>1.89</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.91794871794872</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.32820512820513</text></value>
+		</field>
+	</result>
+	<result offset='190'>
+		<field k='distance'>
+			<value><text>1.9</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.92628205128204</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>68.98256410256411</text></value>
+		</field>
+	</result>
+	<result offset='191'>
+		<field k='distance'>
+			<value><text>1.91</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.74322344322344</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.68205128205128</text></value>
+		</field>
+	</result>
+	<result offset='192'>
+		<field k='distance'>
+			<value><text>1.92</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>75.66025641025641</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>70.07128205128205</text></value>
+		</field>
+	</result>
+	<result offset='193'>
+		<field k='distance'>
+			<value><text>1.93</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>76.37912087912089</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>69.8576923076923</text></value>
+		</field>
+	</result>
+	<result offset='194'>
+		<field k='distance'>
+			<value><text>1.94</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>76.73846153846154</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>70.76630036630037</text></value>
+		</field>
+	</result>
+	<result offset='195'>
+		<field k='distance'>
+			<value><text>1.95</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>76.98846153846154</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>71.08269230769231</text></value>
+		</field>
+	</result>
+	<result offset='196'>
+		<field k='distance'>
+			<value><text>1.96</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>77.36959706959708</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>71.31384615384616</text></value>
+		</field>
+	</result>
+	<result offset='197'>
+		<field k='distance'>
+			<value><text>1.97</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>77.60576923076923</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>71.61076923076922</text></value>
+		</field>
+	</result>
+	<result offset='198'>
+		<field k='distance'>
+			<value><text>1.98</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>77.52628205128205</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.06538461538462</text></value>
+		</field>
+	</result>
+	<result offset='199'>
+		<field k='distance'>
+			<value><text>1.99</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.17136752136751</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.36267806267807</text></value>
+		</field>
+	</result>
+	<result offset='200'>
+		<field k='distance'>
+			<value><text>2</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.04564102564102</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.13653846153846</text></value>
+		</field>
+	</result>
+	<result offset='201'>
+		<field k='distance'>
+			<value><text>2.01</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>77.73076923076923</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.57820512820513</text></value>
+		</field>
+	</result>
+	<result offset='202'>
+		<field k='distance'>
+			<value><text>2.02</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>79.01692307692306</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.80384615384614</text></value>
+		</field>
+	</result>
+	<result offset='203'>
+		<field k='distance'>
+			<value><text>2.03</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>79.51282051282051</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>73.07564102564102</text></value>
+		</field>
+	</result>
+	<result offset='204'>
+		<field k='distance'>
+			<value><text>2.04</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.89572649572649</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.56820512820514</text></value>
+		</field>
+	</result>
+	<result offset='205'>
+		<field k='distance'>
+			<value><text>2.05</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.53269230769232</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>73.03782051282052</text></value>
+		</field>
+	</result>
+	<result offset='206'>
+		<field k='distance'>
+			<value><text>2.06</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.7051282051282</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.75054945054946</text></value>
+		</field>
+	</result>
+	<result offset='207'>
+		<field k='distance'>
+			<value><text>2.07</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.38034188034189</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.57692307692308</text></value>
+		</field>
+	</result>
+	<result offset='208'>
+		<field k='distance'>
+			<value><text>2.08</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.82435897435897</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.44051282051282</text></value>
+		</field>
+	</result>
+	<result offset='209'>
+		<field k='distance'>
+			<value><text>2.09</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.64717948717949</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>73.05299145299145</text></value>
+		</field>
+	</result>
+	<result offset='210'>
+		<field k='distance'>
+			<value><text>2.1</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.97545787545788</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>73.09179487179487</text></value>
+		</field>
+	</result>
+	<result offset='211'>
+		<field k='distance'>
+			<value><text>2.11</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>79.42820512820514</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>72.62991452991453</text></value>
+		</field>
+	</result>
+	<result offset='212'>
+		<field k='distance'>
+			<value><text>2.12</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.8679487179487</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>73.08333333333334</text></value>
+		</field>
+	</result>
+	<result offset='213'>
+		<field k='distance'>
+			<value><text>2.13</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>79.05589743589744</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>73.2570512820513</text></value>
+		</field>
+	</result>
+	<result offset='214'>
+		<field k='distance'>
+			<value><text>2.14</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>79.33846153846153</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>73.23589743589743</text></value>
+		</field>
+	</result>
+	<result offset='215'>
+		<field k='distance'>
+			<value><text>2.15</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>78.71965811965812</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>74.0326923076923</text></value>
+		</field>
+	</result>
+	<result offset='216'>
+		<field k='distance'>
+			<value><text>2.16</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>0</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>79.89597069597072</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>74.83692307692307</text></value>
+		</field>
+	</result>
+	<result offset='217'>
+		<field k='distance'>
+			<value><text>2.17</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>80.30384615384615</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>74.6880341880342</text></value>
+		</field>
+	</result>
+	<result offset='218'>
+		<field k='distance'>
+			<value><text>2.18</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>80.57948717948717</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>75.14935897435898</text></value>
+		</field>
+	</result>
+	<result offset='219'>
+		<field k='distance'>
+			<value><text>2.19</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>80.3888888888889</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>75.45320512820513</text></value>
+		</field>
+	</result>
+	<result offset='220'>
+		<field k='distance'>
+			<value><text>2.2</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>80.32222222222221</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>75.82364672364672</text></value>
+		</field>
+	</result>
+	<result offset='221'>
+		<field k='distance'>
+			<value><text>2.21</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>80.6117216117216</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>75.83333333333334</text></value>
+		</field>
+	</result>
+	<result offset='222'>
+		<field k='distance'>
+			<value><text>2.22</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>80.49871794871794</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>76.3371794871795</text></value>
+		</field>
+	</result>
+	<result offset='223'>
+		<field k='distance'>
+			<value><text>2.23</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>80.87735042735044</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>76.91217948717949</text></value>
+		</field>
+	</result>
+	<result offset='224'>
+		<field k='distance'>
+			<value><text>2.24</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>81.26474358974359</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>77.94957264957266</text></value>
+		</field>
+	</result>
+	<result offset='225'>
+		<field k='distance'>
+			<value><text>2.25</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>82.1111111111111</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>78.74923076923076</text></value>
+		</field>
+	</result>
+	<result offset='226'>
+		<field k='distance'>
+			<value><text>2.26</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>82.44307692307693</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>78.80961538461538</text></value>
+		</field>
+	</result>
+	<result offset='227'>
+		<field k='distance'>
+			<value><text>2.27</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>82.46974358974357</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>79.04358974358975</text></value>
+		</field>
+	</result>
+	<result offset='228'>
+		<field k='distance'>
+			<value><text>2.28</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>82.72</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>79.4010989010989</text></value>
+		</field>
+	</result>
+	<result offset='229'>
+		<field k='distance'>
+			<value><text>2.29</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>82.82692307692307</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>79.53632478632478</text></value>
+		</field>
+	</result>
+	<result offset='230'>
+		<field k='distance'>
+			<value><text>2.3</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>82.87521367521367</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>79.84615384615384</text></value>
+		</field>
+	</result>
+	<result offset='231'>
+		<field k='distance'>
+			<value><text>2.31</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>83.11128205128206</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>80.49743589743589</text></value>
+		</field>
+	</result>
+	<result offset='232'>
+		<field k='distance'>
+			<value><text>2.32</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>83.07435897435897</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>80.19871794871796</text></value>
+		</field>
+	</result>
+	<result offset='233'>
+		<field k='distance'>
+			<value><text>2.33</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>83.66068376068377</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>80.63653846153846</text></value>
+		</field>
+	</result>
+	<result offset='234'>
+		<field k='distance'>
+			<value><text>2.34</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>81.08814102564102</text></value>
+		</field>
+	</result>
+	<result offset='235'>
+		<field k='distance'>
+			<value><text>2.35</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>83.93461538461538</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>81.28205128205127</text></value>
+		</field>
+	</result>
+	<result offset='236'>
+		<field k='distance'>
+			<value><text>2.36</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>84.15064102564102</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>81.18461538461538</text></value>
+		</field>
+	</result>
+	<result offset='237'>
+		<field k='distance'>
+			<value><text>2.37</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>84.37333333333332</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>81.5576923076923</text></value>
+		</field>
+	</result>
+	<result offset='238'>
+		<field k='distance'>
+			<value><text>2.38</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>84.6676923076923</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>82.05993589743589</text></value>
+		</field>
+	</result>
+	<result offset='239'>
+		<field k='distance'>
+			<value><text>2.39</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>84.80952380952381</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>81.88076923076923</text></value>
+		</field>
+	</result>
+	<result offset='240'>
+		<field k='distance'>
+			<value><text>2.4</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>84.52564102564102</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>82.63223443223443</text></value>
+		</field>
+	</result>
+	<result offset='241'>
+		<field k='distance'>
+			<value><text>2.41</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>85.47628205128204</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>82.77008547008546</text></value>
+		</field>
+	</result>
+	<result offset='242'>
+		<field k='distance'>
+			<value><text>2.42</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>85.31128205128206</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>83.33882783882784</text></value>
+		</field>
+	</result>
+	<result offset='243'>
+		<field k='distance'>
+			<value><text>2.43</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>85.6628205128205</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>83.47264957264957</text></value>
+		</field>
+	</result>
+	<result offset='244'>
+		<field k='distance'>
+			<value><text>2.44</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>85.9905982905983</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>84.43974358974359</text></value>
+		</field>
+	</result>
+	<result offset='245'>
+		<field k='distance'>
+			<value><text>2.45</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>86.1474358974359</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>84.32205128205128</text></value>
+		</field>
+	</result>
+	<result offset='246'>
+		<field k='distance'>
+			<value><text>2.46</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>86.14410256410255</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>84.57777777777777</text></value>
+		</field>
+	</result>
+	<result offset='247'>
+		<field k='distance'>
+			<value><text>2.47</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>86.44017094017094</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>84.47794871794872</text></value>
+		</field>
+	</result>
+	<result offset='248'>
+		<field k='distance'>
+			<value><text>2.48</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>86.5328205128205</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>84.91965811965811</text></value>
+		</field>
+	</result>
+	<result offset='249'>
+		<field k='distance'>
+			<value><text>2.49</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>86.1940170940171</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>84.79487179487178</text></value>
+		</field>
+	</result>
+	<result offset='250'>
+		<field k='distance'>
+			<value><text>2.5</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>86.83223443223442</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>85.3974358974359</text></value>
+		</field>
+	</result>
+	<result offset='251'>
+		<field k='distance'>
+			<value><text>2.51</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>86.6025641025641</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>84.79294871794872</text></value>
+		</field>
+	</result>
+	<result offset='252'>
+		<field k='distance'>
+			<value><text>2.52</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>86.9863247863248</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>85.45794871794871</text></value>
+		</field>
+	</result>
+	<result offset='253'>
+		<field k='distance'>
+			<value><text>2.53</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>87.37435897435898</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>85.52564102564102</text></value>
+		</field>
+	</result>
+	<result offset='254'>
+		<field k='distance'>
+			<value><text>2.54</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>87.56153846153846</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>85.90576923076924</text></value>
+		</field>
+	</result>
+	<result offset='255'>
+		<field k='distance'>
+			<value><text>2.55</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>87.27641025641026</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>85.96602564102564</text></value>
+		</field>
+	</result>
+	<result offset='256'>
+		<field k='distance'>
+			<value><text>2.56</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>87.95128205128206</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>85.64273504273505</text></value>
+		</field>
+	</result>
+	<result offset='257'>
+		<field k='distance'>
+			<value><text>2.57</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>87.95170940170941</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>86.46739926739927</text></value>
+		</field>
+	</result>
+	<result offset='258'>
+		<field k='distance'>
+			<value><text>2.58</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>87.71623931623931</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>86.78888888888889</text></value>
+		</field>
+	</result>
+	<result offset='259'>
+		<field k='distance'>
+			<value><text>2.59</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>88.33418803418803</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>86.74505494505493</text></value>
+		</field>
+	</result>
+	<result offset='260'>
+		<field k='distance'>
+			<value><text>2.6</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>86.89145299145298</text></value>
+		</field>
+	</result>
+	<result offset='261'>
+		<field k='distance'>
+			<value><text>2.61</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>88.62410256410257</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>86.8059829059829</text></value>
+		</field>
+	</result>
+	<result offset='262'>
+		<field k='distance'>
+			<value><text>2.62</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>88.6123076923077</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>86.97564102564102</text></value>
+		</field>
+	</result>
+	<result offset='263'>
+		<field k='distance'>
+			<value><text>2.63</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>89.10879120879122</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>87.25179487179487</text></value>
+		</field>
+	</result>
+	<result offset='264'>
+		<field k='distance'>
+			<value><text>2.64</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>89.09846153846154</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>87.52307692307691</text></value>
+		</field>
+	</result>
+	<result offset='265'>
+		<field k='distance'>
+			<value><text>2.65</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>89.10064102564101</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>87.51111111111112</text></value>
+		</field>
+	</result>
+	<result offset='266'>
+		<field k='distance'>
+			<value><text>2.66</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>89.1698717948718</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>87.39839743589744</text></value>
+		</field>
+	</result>
+	<result offset='267'>
+		<field k='distance'>
+			<value><text>2.67</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>89.22350427350428</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>88.23333333333333</text></value>
+		</field>
+	</result>
+	<result offset='268'>
+		<field k='distance'>
+			<value><text>2.68</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>89.44307692307692</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>87.66324786324786</text></value>
+		</field>
+	</result>
+	<result offset='269'>
+		<field k='distance'>
+			<value><text>2.69</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>89.73333333333333</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>87.88410256410256</text></value>
+		</field>
+	</result>
+	<result offset='270'>
+		<field k='distance'>
+			<value><text>2.7</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>90.40085470085471</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>88.36239316239316</text></value>
+		</field>
+	</result>
+	<result offset='271'>
+		<field k='distance'>
+			<value><text>2.71</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>89.94205128205128</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>88.52820512820513</text></value>
+		</field>
+	</result>
+	<result offset='272'>
+		<field k='distance'>
+			<value><text>2.72</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>90.09166666666667</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>87.88461538461539</text></value>
+		</field>
+	</result>
+	<result offset='273'>
+		<field k='distance'>
+			<value><text>2.73</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>90.59282051282051</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>88.52307692307693</text></value>
+		</field>
+	</result>
+	<result offset='274'>
+		<field k='distance'>
+			<value><text>2.74</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>90.2940170940171</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>88.96068376068376</text></value>
+		</field>
+	</result>
+	<result offset='275'>
+		<field k='distance'>
+			<value><text>2.75</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>90.75940170940173</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>89.14679487179487</text></value>
+		</field>
+	</result>
+	<result offset='276'>
+		<field k='distance'>
+			<value><text>2.76</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>91.00205128205128</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>88.98846153846154</text></value>
+		</field>
+	</result>
+	<result offset='277'>
+		<field k='distance'>
+			<value><text>2.77</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>90.84871794871795</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>89.55982905982906</text></value>
+		</field>
+	</result>
+	<result offset='278'>
+		<field k='distance'>
+			<value><text>2.78</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>91.11410256410257</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>89.18205128205128</text></value>
+		</field>
+	</result>
+	<result offset='279'>
+		<field k='distance'>
+			<value><text>2.79</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>91.13589743589743</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>89.72307692307692</text></value>
+		</field>
+	</result>
+	<result offset='280'>
+		<field k='distance'>
+			<value><text>2.8</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>91.41880341880342</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>89.88000000000001</text></value>
+		</field>
+	</result>
+	<result offset='281'>
+		<field k='distance'>
+			<value><text>2.81</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>91.78076923076924</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>90.55555555555556</text></value>
+		</field>
+	</result>
+	<result offset='282'>
+		<field k='distance'>
+			<value><text>2.82</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>91.9491452991453</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>90.31623931623932</text></value>
+		</field>
+	</result>
+	<result offset='283'>
+		<field k='distance'>
+			<value><text>2.83</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>91.82179487179488</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>90.68461538461538</text></value>
+		</field>
+	</result>
+	<result offset='284'>
+		<field k='distance'>
+			<value><text>2.84</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>92.49794871794872</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>90.9596153846154</text></value>
+		</field>
+	</result>
+	<result offset='285'>
+		<field k='distance'>
+			<value><text>2.85</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>92.24102564102563</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>90.96346153846154</text></value>
+		</field>
+	</result>
+	<result offset='286'>
+		<field k='distance'>
+			<value><text>2.86</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>92.75384615384615</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>91.24529914529914</text></value>
+		</field>
+	</result>
+	<result offset='287'>
+		<field k='distance'>
+			<value><text>2.87</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>92.49059829059827</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>90.74957264957266</text></value>
+		</field>
+	</result>
+	<result offset='288'>
+		<field k='distance'>
+			<value><text>2.88</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>92.9576923076923</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>91.79871794871795</text></value>
+		</field>
+	</result>
+	<result offset='289'>
+		<field k='distance'>
+			<value><text>2.89</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>92.91098901098901</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>91.40871794871795</text></value>
+		</field>
+	</result>
+	<result offset='290'>
+		<field k='distance'>
+			<value><text>2.9</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>93.02478632478632</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>91.64461538461539</text></value>
+		</field>
+	</result>
+	<result offset='291'>
+		<field k='distance'>
+			<value><text>2.91</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>93.41880341880342</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>91.75641025641026</text></value>
+		</field>
+	</result>
+	<result offset='292'>
+		<field k='distance'>
+			<value><text>2.92</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>93.08</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>91.68205128205128</text></value>
+		</field>
+	</result>
+	<result offset='293'>
+		<field k='distance'>
+			<value><text>2.93</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>93.78012820512821</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>92.32991452991455</text></value>
+		</field>
+	</result>
+	<result offset='294'>
+		<field k='distance'>
+			<value><text>2.94</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>93.85421245421244</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>92.27991452991454</text></value>
+		</field>
+	</result>
+	<result offset='295'>
+		<field k='distance'>
+			<value><text>2.95</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>94.13632478632479</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>92.38717948717948</text></value>
+		</field>
+	</result>
+	<result offset='296'>
+		<field k='distance'>
+			<value><text>2.96</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>94.49267399267399</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>92.6025641025641</text></value>
+		</field>
+	</result>
+	<result offset='297'>
+		<field k='distance'>
+			<value><text>2.97</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>94.43782051282051</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>92.682905982906</text></value>
+		</field>
+	</result>
+	<result offset='298'>
+		<field k='distance'>
+			<value><text>2.98</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>93.99230769230769</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>93.15384615384616</text></value>
+		</field>
+	</result>
+	<result offset='299'>
+		<field k='distance'>
+			<value><text>2.99</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>94.64666666666668</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>93.33119658119658</text></value>
+		</field>
+	</result>
+	<result offset='300'>
+		<field k='distance'>
+			<value><text>3</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>95.14294871794871</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>93.3502564102564</text></value>
+		</field>
+	</result>
+	<result offset='301'>
+		<field k='distance'>
+			<value><text>3.01</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>95.16666666666667</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>93.33076923076922</text></value>
+		</field>
+	</result>
+	<result offset='302'>
+		<field k='distance'>
+			<value><text>3.02</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>95.12692307692308</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>93.51538461538462</text></value>
+		</field>
+	</result>
+	<result offset='303'>
+		<field k='distance'>
+			<value><text>3.03</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>95.45743589743589</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>94.13333333333333</text></value>
+		</field>
+	</result>
+	<result offset='304'>
+		<field k='distance'>
+			<value><text>3.04</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>95.325</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>93.56153846153846</text></value>
+		</field>
+	</result>
+	<result offset='305'>
+		<field k='distance'>
+			<value><text>3.05</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>95.59358974358975</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>94.2852564102564</text></value>
+		</field>
+	</result>
+	<result offset='306'>
+		<field k='distance'>
+			<value><text>3.06</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>95.86</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>94.18615384615384</text></value>
+		</field>
+	</result>
+	<result offset='307'>
+		<field k='distance'>
+			<value><text>3.07</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>95.87582417582418</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>94.2928205128205</text></value>
+		</field>
+	</result>
+	<result offset='308'>
+		<field k='distance'>
+			<value><text>3.08</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>96.19658119658119</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>94.30512820512821</text></value>
+		</field>
+	</result>
+	<result offset='309'>
+		<field k='distance'>
+			<value><text>3.09</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>96.08937728937728</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>95.07179487179488</text></value>
+		</field>
+	</result>
+	<result offset='310'>
+		<field k='distance'>
+			<value><text>3.1</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>96.19120879120878</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>94.82763532763532</text></value>
+		</field>
+	</result>
+	<result offset='311'>
+		<field k='distance'>
+			<value><text>3.11</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>96.59700854700854</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>94.9</text></value>
+		</field>
+	</result>
+	<result offset='312'>
+		<field k='distance'>
+			<value><text>3.12</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>96.7602564102564</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>94.54743589743589</text></value>
+		</field>
+	</result>
+	<result offset='313'>
+		<field k='distance'>
+			<value><text>3.13</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>96.77692307692307</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>95.34967948717949</text></value>
+		</field>
+	</result>
+	<result offset='314'>
+		<field k='distance'>
+			<value><text>3.14</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>97.6423076923077</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>95.67521367521367</text></value>
+		</field>
+	</result>
+	<result offset='315'>
+		<field k='distance'>
+			<value><text>3.15</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>97.32637362637362</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>95.46794871794872</text></value>
+		</field>
+	</result>
+	<result offset='316'>
+		<field k='distance'>
+			<value><text>3.16</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>97.49282051282051</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>95.92051282051281</text></value>
+		</field>
+	</result>
+	<result offset='317'>
+		<field k='distance'>
+			<value><text>3.17</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>97.56666666666666</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>95.67472527472526</text></value>
+		</field>
+	</result>
+	<result offset='318'>
+		<field k='distance'>
+			<value><text>3.18</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>97.76239316239315</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>96.17179487179487</text></value>
+		</field>
+	</result>
+	<result offset='319'>
+		<field k='distance'>
+			<value><text>3.19</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>97.93461538461538</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>96.57350427350427</text></value>
+		</field>
+	</result>
+	<result offset='320'>
+		<field k='distance'>
+			<value><text>3.2</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>98.2010989010989</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>96.8497435897436</text></value>
+		</field>
+	</result>
+	<result offset='321'>
+		<field k='distance'>
+			<value><text>3.21</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>98.35384615384615</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>96.78717948717947</text></value>
+		</field>
+	</result>
+	<result offset='322'>
+		<field k='distance'>
+			<value><text>3.22</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>98.08632478632478</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>97.05230769230769</text></value>
+		</field>
+	</result>
+	<result offset='323'>
+		<field k='distance'>
+			<value><text>3.23</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>98.992673992674</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>96.72564102564104</text></value>
+		</field>
+	</result>
+	<result offset='324'>
+		<field k='distance'>
+			<value><text>3.24</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>98.64615384615384</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>96.92307692307693</text></value>
+		</field>
+	</result>
+	<result offset='325'>
+		<field k='distance'>
+			<value><text>3.25</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>99.03846153846153</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>97.33076923076923</text></value>
+		</field>
+	</result>
+	<result offset='326'>
+		<field k='distance'>
+			<value><text>3.26</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>99.13931623931624</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>97.4</text></value>
+		</field>
+	</result>
+	<result offset='327'>
+		<field k='distance'>
+			<value><text>3.27</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>99.10854700854702</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>97.98589743589744</text></value>
+		</field>
+	</result>
+	<result offset='328'>
+		<field k='distance'>
+			<value><text>3.28</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>99.32307692307691</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>97.51602564102565</text></value>
+		</field>
+	</result>
+	<result offset='329'>
+		<field k='distance'>
+			<value><text>3.29</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>99.11410256410257</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>97.95128205128205</text></value>
+		</field>
+	</result>
+	<result offset='330'>
+		<field k='distance'>
+			<value><text>3.3</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>99.65961538461539</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>98.22115384615384</text></value>
+		</field>
+	</result>
+	<result offset='331'>
+		<field k='distance'>
+			<value><text>3.31</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>99.92564102564103</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>98.18717948717949</text></value>
+		</field>
+	</result>
+	<result offset='332'>
+		<field k='distance'>
+			<value><text>3.32</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>100.31153846153846</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>98.49423076923075</text></value>
+		</field>
+	</result>
+	<result offset='333'>
+		<field k='distance'>
+			<value><text>3.33</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>100.18358974358975</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>99.03525641025641</text></value>
+		</field>
+	</result>
+	<result offset='334'>
+		<field k='distance'>
+			<value><text>3.34</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>100.44564102564102</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>98.65705128205127</text></value>
+		</field>
+	</result>
+	<result offset='335'>
+		<field k='distance'>
+			<value><text>3.35</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>100.34512820512819</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>98.81435897435898</text></value>
+		</field>
+	</result>
+	<result offset='336'>
+		<field k='distance'>
+			<value><text>3.36</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>100.34102564102564</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>99.00461538461539</text></value>
+		</field>
+	</result>
+	<result offset='337'>
+		<field k='distance'>
+			<value><text>3.37</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>100.69551282051282</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>99.20192307692308</text></value>
+		</field>
+	</result>
+	<result offset='338'>
+		<field k='distance'>
+			<value><text>3.38</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>100.9014652014652</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>99.54102564102564</text></value>
+		</field>
+	</result>
+	<result offset='339'>
+		<field k='distance'>
+			<value><text>3.39</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>100.63846153846153</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>99.97147435897436</text></value>
+		</field>
+	</result>
+	<result offset='340'>
+		<field k='distance'>
+			<value><text>3.4</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>101.23296703296703</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>99.97399267399267</text></value>
+		</field>
+	</result>
+	<result offset='341'>
+		<field k='distance'>
+			<value><text>3.41</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>101.31128205128206</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>100.06089743589743</text></value>
+		</field>
+	</result>
+	<result offset='342'>
+		<field k='distance'>
+			<value><text>3.42</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>102.00982905982904</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>100.18782051282051</text></value>
+		</field>
+	</result>
+	<result offset='343'>
+		<field k='distance'>
+			<value><text>3.43</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>101.39179487179487</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>100.96153846153845</text></value>
+		</field>
+	</result>
+	<result offset='344'>
+		<field k='distance'>
+			<value><text>3.44</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>101.41025641025641</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>100.39273504273505</text></value>
+		</field>
+	</result>
+	<result offset='345'>
+		<field k='distance'>
+			<value><text>3.45</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>102.20384615384614</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.10705128205127</text></value>
+		</field>
+	</result>
+	<result offset='346'>
+		<field k='distance'>
+			<value><text>3.46</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>102.18974358974359</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>100.76007326007324</text></value>
+		</field>
+	</result>
+	<result offset='347'>
+		<field k='distance'>
+			<value><text>3.47</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>102.54871794871795</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.29230769230767</text></value>
+		</field>
+	</result>
+	<result offset='348'>
+		<field k='distance'>
+			<value><text>3.48</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>102.71794871794872</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.48376068376069</text></value>
+		</field>
+	</result>
+	<result offset='349'>
+		<field k='distance'>
+			<value><text>3.49</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>102.81766381766381</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.64487179487179</text></value>
+		</field>
+	</result>
+	<result offset='350'>
+		<field k='distance'>
+			<value><text>3.5</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>102.50769230769231</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.21282051282053</text></value>
+		</field>
+	</result>
+	<result offset='351'>
+		<field k='distance'>
+			<value><text>3.51</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>102.97521367521368</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.98717948717949</text></value>
+		</field>
+	</result>
+	<result offset='352'>
+		<field k='distance'>
+			<value><text>3.52</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>103.1349358974359</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.71428571428571</text></value>
+		</field>
+	</result>
+	<result offset='353'>
+		<field k='distance'>
+			<value><text>3.53</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>103.69615384615385</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.91153846153847</text></value>
+		</field>
+	</result>
+	<result offset='354'>
+		<field k='distance'>
+			<value><text>3.54</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>103.2251282051282</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>101.7352564102564</text></value>
+		</field>
+	</result>
+	<result offset='355'>
+		<field k='distance'>
+			<value><text>3.55</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>103.44307692307693</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>102.11282051282052</text></value>
+		</field>
+	</result>
+	<result offset='356'>
+		<field k='distance'>
+			<value><text>3.56</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>104.36987179487178</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>102.55441595441594</text></value>
+		</field>
+	</result>
+	<result offset='357'>
+		<field k='distance'>
+			<value><text>3.57</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>104.20801282051283</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>103.20769230769231</text></value>
+		</field>
+	</result>
+	<result offset='358'>
+		<field k='distance'>
+			<value><text>3.58</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>104.26307692307691</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>102.63333333333333</text></value>
+		</field>
+	</result>
+	<result offset='359'>
+		<field k='distance'>
+			<value><text>3.59</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>104.61076923076924</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>102.94572649572649</text></value>
+		</field>
+	</result>
+	<result offset='360'>
+		<field k='distance'>
+			<value><text>3.6</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>104.79487179487181</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>102.91435897435899</text></value>
+		</field>
+	</result>
+	<result offset='361'>
+		<field k='distance'>
+			<value><text>3.61</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>104.69166666666666</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>103.56057692307692</text></value>
+		</field>
+	</result>
+	<result offset='362'>
+		<field k='distance'>
+			<value><text>3.62</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>105.0705128205128</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>103.95384615384616</text></value>
+		</field>
+	</result>
+	<result offset='363'>
+		<field k='distance'>
+			<value><text>3.63</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>105.03141025641025</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>103.74285714285715</text></value>
+		</field>
+	</result>
+	<result offset='364'>
+		<field k='distance'>
+			<value><text>3.64</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>105.52564102564102</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>103.86410256410257</text></value>
+		</field>
+	</result>
+	<result offset='365'>
+		<field k='distance'>
+			<value><text>3.65</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>105.40769230769232</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>103.77521367521369</text></value>
+		</field>
+	</result>
+	<result offset='366'>
+		<field k='distance'>
+			<value><text>3.66</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>105.49391025641026</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>104.39794871794872</text></value>
+		</field>
+	</result>
+	<result offset='367'>
+		<field k='distance'>
+			<value><text>3.67</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>105.84358974358975</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>104.38846153846154</text></value>
+		</field>
+	</result>
+	<result offset='368'>
+		<field k='distance'>
+			<value><text>3.68</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>105.83230769230768</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>104.60608974358975</text></value>
+		</field>
+	</result>
+	<result offset='369'>
+		<field k='distance'>
+			<value><text>3.69</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>106.25934065934067</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>104.83186813186815</text></value>
+		</field>
+	</result>
+	<result offset='370'>
+		<field k='distance'>
+			<value><text>3.7</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>106.04615384615384</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>105.35320512820513</text></value>
+		</field>
+	</result>
+	<result offset='371'>
+		<field k='distance'>
+			<value><text>3.71</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>106.47069597069597</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>105.35897435897436</text></value>
+		</field>
+	</result>
+	<result offset='372'>
+		<field k='distance'>
+			<value><text>3.72</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>106.71538461538462</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>105.23333333333332</text></value>
+		</field>
+	</result>
+	<result offset='373'>
+		<field k='distance'>
+			<value><text>3.73</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>106.62820512820512</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>105.5985347985348</text></value>
+		</field>
+	</result>
+	<result offset='374'>
+		<field k='distance'>
+			<value><text>3.74</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>107.12820512820514</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>105.8931623931624</text></value>
+		</field>
+	</result>
+	<result offset='375'>
+		<field k='distance'>
+			<value><text>3.75</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>107.4062271062271</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>105.83589743589744</text></value>
+		</field>
+	</result>
+	<result offset='376'>
+		<field k='distance'>
+			<value><text>3.76</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>107.24615384615385</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>106.16623931623933</text></value>
+		</field>
+	</result>
+	<result offset='377'>
+		<field k='distance'>
+			<value><text>3.77</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>107.33443223443224</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>106.28397435897435</text></value>
+		</field>
+	</result>
+	<result offset='378'>
+		<field k='distance'>
+			<value><text>3.78</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>107.25576923076923</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>106.0825641025641</text></value>
+		</field>
+	</result>
+	<result offset='379'>
+		<field k='distance'>
+			<value><text>3.79</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>108.06666666666666</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>106.63948717948718</text></value>
+		</field>
+	</result>
+	<result offset='380'>
+		<field k='distance'>
+			<value><text>3.8</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>108.12371794871795</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>106.37393162393164</text></value>
+		</field>
+	</result>
+	<result offset='381'>
+		<field k='distance'>
+			<value><text>3.81</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>108.39538461538461</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>107.19102564102565</text></value>
+		</field>
+	</result>
+	<result offset='382'>
+		<field k='distance'>
+			<value><text>3.82</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>108.53589743589745</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>107.03846153846155</text></value>
+		</field>
+	</result>
+	<result offset='383'>
+		<field k='distance'>
+			<value><text>3.83</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>108.16837606837608</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>107.1849816849817</text></value>
+		</field>
+	</result>
+	<result offset='384'>
+		<field k='distance'>
+			<value><text>3.84</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>108.77435897435899</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>107.4419413919414</text></value>
+		</field>
+	</result>
+	<result offset='385'>
+		<field k='distance'>
+			<value><text>3.85</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>108.86837606837607</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>107.57863247863249</text></value>
+		</field>
+	</result>
+	<result offset='386'>
+		<field k='distance'>
+			<value><text>3.86</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>109.39282051282052</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>107.43897435897436</text></value>
+		</field>
+	</result>
+	<result offset='387'>
+		<field k='distance'>
+			<value><text>3.87</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>109.29807692307692</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>107.59709401709401</text></value>
+		</field>
+	</result>
+	<result offset='388'>
+		<field k='distance'>
+			<value><text>3.88</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>109.69711538461537</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>107.71501831501833</text></value>
+		</field>
+	</result>
+	<result offset='389'>
+		<field k='distance'>
+			<value><text>3.89</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>109.6551282051282</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>108.34786324786324</text></value>
+		</field>
+	</result>
+	<result offset='390'>
+		<field k='distance'>
+			<value><text>3.9</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>110.32948717948719</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>108.52712031558188</text></value>
+		</field>
+	</result>
+	<result offset='391'>
+		<field k='distance'>
+			<value><text>3.91</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>110.16452991452991</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>108.496274794388</text></value>
+		</field>
+	</result>
+	<result offset='392'>
+		<field k='distance'>
+			<value><text>3.92</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>110.05238095238097</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>108.45624659028914</text></value>
+		</field>
+	</result>
+	<result offset='393'>
+		<field k='distance'>
+			<value><text>3.93</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>110.82435897435897</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>108.51236127057025</text></value>
+		</field>
+	</result>
+	<result offset='394'>
+		<field k='distance'>
+			<value><text>3.94</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>110.34974358974357</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>108.72703962703963</text></value>
+		</field>
+	</result>
+	<result offset='395'>
+		<field k='distance'>
+			<value><text>3.95</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>110.56089743589743</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>108.8971794871795</text></value>
+		</field>
+	</result>
+	<result offset='396'>
+		<field k='distance'>
+			<value><text>3.96</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>112.08846153846154</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>109.5181623931624</text></value>
+		</field>
+	</result>
+	<result offset='397'>
+		<field k='distance'>
+			<value><text>3.97</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>119.44564102564104</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>113.1347140039448</text></value>
+		</field>
+	</result>
+	<result offset='398'>
+		<field k='distance'>
+			<value><text>3.98</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>123.22008547008546</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>114.02703962703964</text></value>
+		</field>
+	</result>
+	<result offset='399'>
+		<field k='distance'>
+			<value><text>3.99</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>131.58820512820512</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>123.59557109557109</text></value>
+		</field>
+	</result>
+	<result offset='400'>
+		<field k='distance'>
+			<value><text>4</text></value>
+		</field>
+		<field k='Actuation: compressing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Actuation: releasing'>
+			<value><text>1</text></value>
+		</field>
+		<field k='Force: compressing'>
+			<value><text>141.2854700854701</text></value>
+		</field>
+		<field k='Force: releasing'>
+			<value><text>128.97264957264957</text></value>
+		</field>
+	</result>
+</results>
